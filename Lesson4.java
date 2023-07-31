@@ -3,7 +3,7 @@ package lesson4;
 /**
  * Algorithms. Lesson #4. Merge sorting
  *
- * @author Sergey Iryupin
+ * @author Tetiana Tatsenko
  * @version 07 Jul 2023
  */
 
